@@ -1,6 +1,6 @@
 {
   "name": "react-native-flat-header",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple and fully customizable React Native component that implements a Flat-Header UI.",
   "main": "index.js",
   "scripts": {
