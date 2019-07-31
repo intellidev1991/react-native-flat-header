@@ -1,0 +1,40 @@
+{
+  "name": "react-native-flat-header",
+  "version": "1.0.6",
+  "description": "A simple and fully customizable React Native component that implements a Flat-Header UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellidev1991/react-native-flat-header.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-header",
+    "react-native-flat-header",
+    "ReactNative",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "Header",
+    "flat header",
+    "flat-header",
+    "header bar"
+  ],
+  "author": "Hamed Taheri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intellidev1991/react-native-flat-header/issues"
+  },
+  "homepage": "https://github.com/intellidev1991/react-native-flat-header.git#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
