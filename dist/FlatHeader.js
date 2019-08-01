@@ -1,15 +1,3 @@
-/*
- * Copyright (c) 2019 Hamed Taheri
- *
- * @Script: FlatHeader.js
- * @Author: Hamed Taheri
- * @Email: hamed.taheri32@gmail.com
- * @Create At: 2019-04-04 02:13:27
- * @Last Modified By: Hamed Taheri
- * @Last Modified At: 2019-04-04 02:13:49
- * @Description: react-native-flat-header.
- */
-
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
